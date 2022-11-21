@@ -11,12 +11,7 @@ const Shop = ()=>{
   )
 }
 
-
-
-
-
 function App() {
-
 
   return (
     <div className="App">
